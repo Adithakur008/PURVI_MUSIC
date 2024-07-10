@@ -6,15 +6,15 @@
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TEAMPURVI/PURVI_MUSIC&branch=main&name=purvibot)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=PURVI_MUSIC&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adithakur008&repo=PURVI_MUSIC&theme=flag-india)
 
-[![GIF](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/TEAMPURVI.gif)](https://github.com/TEAMPURVI)
-   [![ALPHA](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")
-
-
+[![GIF](https://github.com/Adithakur008/PURVI_MUSIC/blob/main/Adithakur008.gif)](https://github.com/Adithakur008)
+   [![ALPHA](https://github-stats-alpha.vercel.app/api?username=Adithakur008 "DESTROYER")](https://github-stats-alpha.vercel.app/api?username=Adithakur008 "DESTROYER")
 
 
-GO TO [RELOAD.PY](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/PURVIMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
+
+
+GO TO [RELOAD.PY](https://github.com/Adithakur008/PURVI_MUSIC/blob/main/PURVIMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 <p align="center">
   <img src="https://telegra.ph/file/ae76c3030a0ca174b1e16.jpg">
