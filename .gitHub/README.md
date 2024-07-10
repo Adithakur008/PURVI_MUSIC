@@ -33,5 +33,5 @@ d
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAMPURVI&show_icons=true&locale=en&layout=compact" alt="TEAMPURVI" /></p>
 
-[![Contributors](https://contrib.rocks/image?repo=TEAMPURVI/PURVI_MUSIC)](https://github.com/TEAMPURVI/PURVIMUSIC/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=Adithakur008/PURVI_MUSIC)](https://github.com/Adithakur008/PURVIMUSIC/graphs/contributors)
 
