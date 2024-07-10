@@ -4,12 +4,12 @@
 
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TEAMPURVI/PURVI_MUSIC&branch=main&name=purvibot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Adithakur008/PURVI_MUSIC&branch=main&name=ENVIBOT)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adithakur008&repo=PURVI_MUSIC&theme=flag-india)
 
 [![GIF](https://github.com/Adithakur008/PURVI_MUSIC/blob/main/Adithakur008.gif)](https://github.com/Adithakur008)
-   [![ALPHA](https://github-stats-alpha.vercel.app/api?username=Adithakur008 "DESTROYER")](https://github-stats-alpha.vercel.app/api?username=Adithakur008 "DESTROYER")
+   [![ALPHA](https://github-stats-alpha.vercel.app/api?username=Adithakur008 "DESTROYER")](https://github-stats-DESTROYER.vercel.app/api?username=Adithakur008 "DESTROYER")
 
 
 
