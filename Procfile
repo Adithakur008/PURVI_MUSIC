@@ -1,1 +1,1 @@
-worker: bash start
+gunicorn app:app & python3 -m 
