@@ -4,7 +4,7 @@
 
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Adithakur008/PURVI_MUSIC&branch=main&name=ENVIBOT)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Adithakur008/PURVI_MUSIC&branch=main&name=ridibot)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adithakur008&repo=PURVI_MUSIC&theme=flag-india)
 
