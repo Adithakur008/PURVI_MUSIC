@@ -1,4 +1,4 @@
-import asyncio
+
 import os
 import re
 from typing import Union
@@ -7,47 +7,7 @@ from pytgcalls.types.input_stream import InputAudioStream
 
 import yt_dlp
 from pyrogram.enums import MessageEntityType
-from pyrogram.types import Message
-from youtubesearchpython.__future__ import VideosSearch
-
-from PURVIMUSIC.utils.database import is_on_off
-from PURVIMUSIC.utils.formatters import time_to_seconds
-
-
-async def shell_cmd(cmd):
-    proc = await asyncio.create_subprocess_shell(
-        cmd,
-        stdout=asyncio.subprocess.PIPE,
-        stderr=asyncio.subprocess.PIPE,
-    )
-    out, errorz = await proc.communicate()
-    if errorz:
-        if "unavailable videos are hidden" in (errorz.decode("utf-8")).lower():
-            return out.decode("utf-8")
-        else:
-            return errorz.decode("utf-8")
-    return out.decode("utf-8")
-
-
-class YouTubeAPI:
-    def __init__(self):
-        self.base = "https://www.youtube.com/watch?v="
-        self.regex = r"(?:youtube\.com|youtu\.be)"
-        self.status = "https://www.youtube.com/oembed?url="
-        self.listbase = "https://youtube.com/playlist?list="
-        self.reg = re.compile(r"\x1B(?:[@-Z\\-_]|\[[0-?]*[ -/]*[@-~])")
-
-    async def exists(self, link: str, videoid: Union[bool, str] = None):
-        if videoid:
-            link = self.base + link
-        if re.search(self.regex, link):
-            return True
-        else:
-            return False
-
-    async def url(self, message_1: Message) -> Union[str, None]:
-        messages = [message_1]
-        if message_1.reply_to_message:
+from pyrogram.types import Mes
             messages.append(message_1.reply_to_message)
         text = ""
         offset = None
@@ -336,13 +296,4 @@ class YouTubeAPI:
                     stdout=asyncio.subprocess.PIPE,
                     stderr=asyncio.subprocess.PIPE,
                 )
-                stdout, stderr = await proc.communicate()
-                if stdout:
-                    downloaded_file = stdout.decode().split("\n")[0]
-                    direct = None
-                else:
-                    return
-        else:
-            direct = True
-            downloaded_file = await loop.run_in_executor(None, audio_dl)
-        return downloaded_file, direct
+    
